@@ -34,13 +34,13 @@ Papers on engrXiv may be linked to the <a href="https://osf.io/" target="_blank"
 engrXiv is directed by a steering committee of engineers and members of the engineering librarian community. They are:
 <ul>
 	<li><a href="http://libguides.mit.edu/profiles/psayers" target="_blank">Phoebe Ayers</a>, librarian, Massachusetts Institute of Technology</li>
-	<li><a href="https://stem.gwu.edu/lorena-barba" target="_blank">Lorena A. Barba</a>, aerospace engineer, The George Washington University</li>
-	<li><a href="https://www.devinberg.com/">Devin R. Berg</a>, mechanical engineer, University of Wisconsin-Stout</li>
+	<li><a href="http://stem.gwu.edu/lorena-barba" target="_blank">Lorena A. Barba</a>, aerospace engineer, The George Washington University</li>
+	<li><a href="http://www.devinberg.com/">Devin R. Berg</a>, mechanical engineer, University of Wisconsin-Stout</li>
 	<li><a href="http://mime.oregonstate.edu/people/dupont" target="_blank">Bryony Dupont</a>, mechanical engineer, Oregon State University</li>
 	<li><a href="http://directory.uark.edu/people/dcjensen" target="_blank">David Jensen</a>, mechanical engineer, University of Arkansas</li>
 	<li><a href="http://biomech.media.mit.edu/people/" target="_blank">Kevin Moerman</a>, biomechanical engineer, Massachusetts Institute of Technology</li>
 	<li><a href="http://mime.oregonstate.edu/people/kyle-niemeyer" target="_blank">Kyle Niemeyer</a>, mechanical engineer, Oregon State University</li>
-	<li><a href="https://www.douglasvanbossuyt.com/" target="_blank">Douglas Van Bossuyt</a>, mechanical engineer, Colorado School of Mines</li>
+	<li><a href="http://www.douglasvanbossuyt.com/" target="_blank">Douglas Van Bossuyt</a>, mechanical engineer, Colorado School of Mines</li>
 </ul>
 engrXiv is currently operating in beta mode, visit <a href="http://www.engrxiv.org/" target="_blank">engrXiv.org</a> for more information and to get started posting your eprints. Follow us on <a href="https://twitter.com/engrxiv">Twitter</a> or <a href="https://www.facebook.com/engrxiv">Facebook</a>.
 
