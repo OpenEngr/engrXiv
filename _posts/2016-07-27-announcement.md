@@ -29,7 +29,7 @@ The eprint server provides several important benefits to the engineering author:
 
 “It is vital that not only papers but also outcomes like data, code, designs, and computational models, can be shared, peer-reviewed and cited using a single framework. The engrXiv aims to provide such a framework, allowing scientists and engineers to rapidly share and discus all types of engineering works. Sharing not just results, but also the tools, data, and methods that led to them will enhance collaboration and reproducibility in engineering research.” said Kevin Moerman, Massachusetts Institute of Technology.
 
-Papers on engrXiv may be linked to the <a href="https://osf.io/" target="_blank">full suite of services available free through the Open Science Framework</a>. OSF supports project management and collaboration, connects services across the research lifecycle, and archives data, materials, and other research objects for private use or public sharing.
+Papers on engrXiv may be linked to the <a href="https://osf.io/" target="_blank">full suite of services available free through the Open Science Framework</a>. OSF supports project management and collaboration, connects services across the research and design lifecycle, and archives data, materials, and other engineering assets for private use or public sharing.
 
 engrXiv is directed by a steering committee of engineers and members of the engineering librarian community. They are:
 <ul>
