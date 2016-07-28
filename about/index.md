@@ -4,7 +4,7 @@ layout: default
 
 <h1>About engrXiv</h1>
 
-<a href="http://engrxiv.org/" target="_blank">engrXiv</a> is dedicated to the dissemination of engineering knowledge quickly and efficiently. This is the blog for engrXiv.
+<a href="http://engrxiv.org/" target="_blank">engrXiv</a> (engineering archive) is dedicated to the dissemination of engineering knowledge quickly and efficiently. This is the blog for engrXiv.
 
 
 engrxiv is directed by a steering committee of engineers and members of the engineering librarian community. They are:
