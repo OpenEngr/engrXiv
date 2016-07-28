@@ -18,6 +18,8 @@ Follow us on <a href="https://twitter.com/engrXiv" target="_blank">Twitter</a> o
 
 &nbsp;
 
+To make a tax-deductible contribution to engrXiv through the University of Wisconsin-Stout, visit: https://foundation.uwstout.edu/pages/givings/engrxiv
+
 <em>arXiv is a trademark of Cornell University, used under license</em>. <em>This license should not be understood to indicate endorsement of content on engrXiv by Cornell University or arXiv.</em>
 
 
