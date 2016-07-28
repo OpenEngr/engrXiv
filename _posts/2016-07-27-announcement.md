@@ -44,4 +44,6 @@ engrXiv is directed by a steering committee of engineers and members of the engi
 </ul>
 engrXiv is currently operating in beta mode, visit <a href="http://www.engrxiv.org/" target="_blank">engrXiv.org</a> for more information and to get started posting your eprints. Follow us on <a href="https://twitter.com/engrxiv">Twitter</a> or <a href="https://www.facebook.com/engrxiv">Facebook</a>.
 
+To make a tax-deductible contribution to engrXiv through the University of Wisconsin-Stout, visit: <a href="https://foundation.uwstout.edu/pages/givings/engrxiv">https://foundation.uwstout.edu/pages/givings/engrxiv</a>
+
 <em>arXiv is a trademark of Cornell University, used under license</em>. <em>This license should not be understood to indicate endorsement of content on engrXiv by Cornell University or arXiv.</em>
