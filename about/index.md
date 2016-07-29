@@ -7,7 +7,7 @@ layout: default
 <a href="http://engrxiv.org/" target="_blank">engrXiv</a> (engineering archive) is dedicated to the dissemination of engineering knowledge quickly and efficiently. This is the blog for engrXiv.
 
 
-engrxiv is directed by a steering committee of engineers and members of the engineering librarian community. They are:
+engrXiv is directed by a steering committee of engineers and members of the engineering librarian community. They are:
 <ul>
 	<li><a href="http://libguides.mit.edu/profiles/psayers" target="_blank">Phoebe Ayers</a>, librarian, Massachusetts Institute of Technology</li>
 	<li><a href="https://stem.gwu.edu/lorena-barba" target="_blank">Lorena A. Barba</a>, aerospace engineer, The George Washington University</li>
