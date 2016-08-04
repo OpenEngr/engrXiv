@@ -10,20 +10,20 @@ comments: true
 Submitting a pre or postprint to engrXiv is pretty easy, you can do it by just sending an email:
 
 > Send an email to the following address from the email account you would like used on the OSF:
-
+> 
 > For Preprints, email [engrxiv-Preprint@osf.io](mailto:engrxiv-Preprint@osf.io)
-
+> 
 > The format of the email should be as follows:
-
+> 
 > Subject  
 > *Preprint Title*
-
+> 
 > Message body  
 > *Preprint Abstract*
-
+> 
 > Attachment  
 > *Your preprint file (e.g., .docx, PDF, etc.)*
-
+> 
 > *Once sent, we will follow-up by sending you the permanent identifier that others can use to cite your work; you can also login and make changes, such as uploading additional files, to your project at that URL. If you didn't have an OSF account, one will be created automatically and a link to set your password will be emailed to you; if you do, we will simply create a new project in your account. By creating an account you agree to our Terms and that you have read our Privacy Policy, including our information on Cookie Use.*
 
 Note that you can also submit to engrXiv by tagging an existing [osf.io](http://osf.io) project with "engrxiv".
