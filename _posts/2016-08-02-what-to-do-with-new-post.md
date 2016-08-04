@@ -1,5 +1,5 @@
 ---
-title: What can you do with a new engrXiv post
+title: "What can you do with a new engrXiv post?"
 tags: informational
 category: miscellaneous
 permalink: 2016/08/what-to-do-with-new-post
