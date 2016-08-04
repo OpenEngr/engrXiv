@@ -15,7 +15,7 @@ Next is the "rXiv" part. This form of spelling for the word *archive* is best kn
 
 Putting this all together, we took these two parts and smashed them together, while eliminating the double "r", to form engrXiv, pronounced "Engineering Archive." We hope that with time as the engrXiv community grows, the name and pronunciation will become commonplace and not require explanation.
 
-To help avoid confusion, if you tell your colleagues to visit [www.engineeringarchive.org](http://www.engineeringarchive.org) they will also find there way to engrXiv.  ;-)
+To help avoid confusion, if you tell your colleagues to visit [www.engineeringarchive.org](http://www.engineeringarchive.org) they will also find their way to engrXiv.  ;-)
 
 
 
