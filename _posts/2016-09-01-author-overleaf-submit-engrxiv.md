@@ -11,7 +11,7 @@ Thanks to a [new collaboration between the the Center for Open Science and Overl
 
 Submitting couldn't be easier. Once you are finished authoring your paper on Overleaf, just click the "Journals & Services" tab at the top of the page, scroll down and select engrXiv.
 
-<img src="https://github.com/OpenEngr/engrXiv/raw/gh-pages/images/overleaf1.PNG"/>
+<img src="https://github.com/OpenEngr/engrXiv/raw/gh-pages/images/overleaf1.PNG" width="500px"/>
 
 On the next window click, "Submit Article to engrXiv" and you are all set.
 
