@@ -14,7 +14,7 @@ engrXiv is directed by a steering committee of engineers and members of the engi
 	<li><a href="http://mime.oregonstate.edu/people/kyle-niemeyer" target="_blank">Kyle Niemeyer</a>, mechanical engineer, Oregon State University</li>
 	<li><a href="http://www.douglasvanbossuyt.com/" target="_blank">Douglas Van Bossuyt</a>, mechanical engineer, Colorado School of Mines</li>
 </ul>
-Follow us on <a href="https://twitter.com/engrXiv" target="_blank">Twitter</a> or <a href="https://www.facebook.com/engrXiv" target="_blank">Facebook</a>.
+Follow us on <a href="https://twitter.com/engrXiv" target="_blank">Twitter</a> or <a href="https://www.facebook.com/engrXiv" target="_blank">Facebook</a> or checkout the [engrXiv blog](http://blog.engrxiv.org/) for updates.
 
 &nbsp;
 
