@@ -30,6 +30,7 @@ Engineering: Bioresource and Agricultural Engineering
 Engineering: Chemical Engineering
 Engineering: Chemical Engineering: Biochemical and Biomolecular Engineering
 Engineering: Chemical Engineering: Catalysis and Reaction Engineering
+Engineering: Chemical Engineering: Chemical Kinetics
 Engineering: Chemical Engineering: Complex Fluids
 Engineering: Chemical Engineering: Membrane Science
 Engineering: Chemical Engineering: Petroleum Engineering
@@ -86,10 +87,12 @@ Engineering: Mechanical Engineering
 Engineering: Mechanical Engineering: Acoustics, Dynamics, and Controls
 Engineering: Mechanical Engineering: Applied Mechanics
 Engineering: Mechanical Engineering: Biomechanical Engineering
+Engineering: Mechanical Engineering: Combustion
 Engineering: Mechanical Engineering: Computer-Aided Engineering and Design
+Engineering: Mechanical Engineering: Design Engineering
 Engineering: Mechanical Engineering: Electro-Mechanical Systems
 Engineering: Mechanical Engineering: Energy Systems
-Engineering: Mechanical Engineering: Heat Transfer, Combustion
+Engineering: Mechanical Engineering: Heat Transfer
 Engineering: Mechanical Engineering: Manufacturing
 Engineering: Mechanical Engineering: Ocean Engineering
 Engineering: Mechanical Engineering: Tribology
