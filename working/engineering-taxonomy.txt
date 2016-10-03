@@ -93,6 +93,7 @@ Engineering: Mechanical Engineering: Computer-Aided Engineering and Design
 Engineering: Mechanical Engineering: Design Engineering
 Engineering: Mechanical Engineering: Electro-Mechanical Systems
 Engineering: Mechanical Engineering: Energy Systems
+Engineering: Mechanical Engineering: Fluid Mechanics
 Engineering: Mechanical Engineering: Heat Transfer
 Engineering: Mechanical Engineering: Manufacturing
 Engineering: Mechanical Engineering: Ocean Engineering
