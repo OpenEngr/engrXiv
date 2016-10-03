@@ -75,6 +75,7 @@ Engineering: Engineering Science and Materials: Dynamics and Dynamical Systems
 Engineering: Engineering Science and Materials: Engineering Mechanics
 Engineering: Engineering Science and Materials: Mechanics of Materials
 Engineering: Engineering Science and Materials: Other Engineering Science and Materials
+Engineering: Manufacturing Engineering
 Engineering: Materials Science and Engineering
 Engineering: Materials Science and Engineering: Biology and Biomimetic Materials
 Engineering: Materials Science and Engineering: Ceramic Materials
@@ -107,5 +108,6 @@ Engineering: Operations Research, Systems Engineering and Industrial Engineering
 Engineering: Operations Research, Systems Engineering and Industrial Engineering: Operational Research
 Engineering: Operations Research, Systems Engineering and Industrial Engineering: Systems Engineering
 Engineering: Operations Research, Systems Engineering and Industrial Engineering: Other Operations Research, Systems Engineering and Industrial Engineering
+Engineering: Plastics Engineering
 Engineering: Risk Analysis
 Engineering: Other Engineering
