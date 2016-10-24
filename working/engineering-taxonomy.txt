@@ -10,6 +10,7 @@ Engineering: Aerospace Engineering: Space Vehicles
 Engineering: Aerospace Engineering: Structures and Materials
 Engineering: Aerospace Engineering: Systems Engineering and Multidisciplinary Design Optimization
 Engineering: Aerospace Engineering: Other Aerospace Engineering
+Engineering: Architectural Engineering
 Engineering: Automotive Engineering
 Engineering: Aviation
 Engineering: Aviation: Aviation Safety and Security
@@ -70,6 +71,7 @@ Engineering: Electrical and Computer Engineering: Systems and Communications
 Engineering: Electrical and Computer Engineering: VLSI and Circuits, Embedded and Hardware Systems
 Engineering: Electrical and Computer Engineering: Other Electrical and Computer Engineering
 Engineering: Engineering Education
+Engineering: Engineering Physics
 Engineering: Engineering Science and Materials
 Engineering: Engineering Science and Materials: Dynamics and Dynamical Systems
 Engineering: Engineering Science and Materials: Engineering Mechanics
@@ -111,4 +113,5 @@ Engineering: Operations Research, Systems Engineering and Industrial Engineering
 Engineering: Operations Research, Systems Engineering and Industrial Engineering: Other Operations Research, Systems Engineering and Industrial Engineering
 Engineering: Plastics Engineering
 Engineering: Risk Analysis
+Engineering: Software Engineering
 Engineering: Other Engineering
