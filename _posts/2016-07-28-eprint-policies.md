@@ -7,7 +7,7 @@ layout: post
 comments: true
 ---
 
-Potential submitters to engrXiv might be worried about whether submission of their manuscript will prevent them from later submitting to the journal of their choice. Fortunately, <a href="http://www.sherpa.ac.uk/romeo/index.php" target="_blank">SHERPA/RoMERO</a> is here to help you navigate each publisher's policies regarding preprints, postprints, copyright, and self-archiving.
+Potential submitters to engrXiv might be worried about whether submission of their manuscript will prevent them from later submitting to the journal of their choice. Fortunately, <a href="http://www.sherpa.ac.uk/romeo/index.php" target="_blank">SHERPA/RoMEO</a> is here to help you navigate each publisher's policies regarding preprints, postprints, copyright, and self-archiving.
 
 For preprints, SHERPA/RoMEO will help authors determine if the publisher allows authors to post a preprint and still be considered for publication.
 
