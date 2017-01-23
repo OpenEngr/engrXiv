@@ -4,7 +4,7 @@ layout: default
 
 <h1>About engrXiv</h1>
 
-<a href="http://engrxiv.org/" target="_blank">engrXiv</a> (engineering archive) is dedicated to the dissemination of engineering knowledge quickly and efficiently. This is the blog for engrXiv.
+<a href="http://engrxiv.org/" target="_blank">engrXiv</a> (engineering archive) is dedicated to the dissemination of engineering knowledge quickly and efficiently. engrXiv was launched in beta in July 2016 under the direction of Devin R. Berg, associate professor of mechanical engineering at the University of Wisconsin-Stout, and in partnership with the Center for Open Science.
 
 
 engrXiv is directed by a steering committee of engineers and members of the engineering librarian community. They are:
@@ -18,7 +18,7 @@ engrXiv is directed by a steering committee of engineers and members of the engi
 	<li><a href="http://kyleniemeyer.com" target="_blank">Kyle Niemeyer</a>, mechanical engineer, Oregon State University</li>
 	<li><a href="http://www.douglasvanbossuyt.com/" target="_blank">Douglas Van Bossuyt</a>, mechanical engineer, KTM Research</li>
 </ul>
-Follow us on <a href="https://twitter.com/engrXiv" target="_blank">Twitter</a> or <a href="https://www.facebook.com/engrXiv" target="_blank">Facebook</a> or watch the [engrXiv blog](http://blog.engrxiv.org/) for updates.
+Follow us on <a href="https://twitter.com/engrXiv" target="_blank">Twitter</a> or <a href="https://www.facebook.com/engrXiv" target="_blank">Facebook</a> or watch the [engrXiv blog](http://blog.engrxiv.org/) for updates. Organizations interested in partnering with engrXiv to expand archiving in the engineering field should contact [info@engrxiv.org](mailto:info@engrxiv.org).
 
 &nbsp;
 
