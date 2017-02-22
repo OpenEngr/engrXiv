@@ -1,8 +1,8 @@
 ---
-title: "Recommended citation formatting now available"
+title: "Template now available"
 tags: informational
 category: miscellaneous
-permalink: 2017/02/citation-formatting
+permalink: 2017/02/template-available
 layout: post
 comments: true
 ---
@@ -17,3 +17,4 @@ Some of the features of the template include:
 You can make use of the template by [forking it on Github](https://github.com/OpenEngr/engrXiv-template) or through our partnership with Overleaf where it is available as an [Overleaf template](https://www.overleaf.com/latex/templates/engrxiv-template/ttrnvgdkgcgy).
 
 ![Screenshot of the engrXiv template.](/images/template_snip.PNG)
+ages/template_snip.PNG)
