@@ -12,4 +12,4 @@ In exciting news over the weekend, engrXiv is now being indexed in Google Schola
 Check back here for more developments arriving in the coming months!
 
 
-![Screenshot of the engrXiv indexed in Google Scholar.](/images/engrXiv_inGS.PNG)
+![Screenshot of the engrXiv indexed in Google Scholar.](/images/engrXiv_inGS.png)
