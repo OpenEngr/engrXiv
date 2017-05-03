@@ -3,6 +3,7 @@
 ### [What is open access?](#what-is-oa)  
 ### [What is a “preprint”, “postprint”, or “eprint”?](#what-is-preprint)  
 ### [What can I post to engrXiv?](#what-can-post) 
+### [Can I post non-English articles?](#multilang) 
 ### [What about other research materials?](#other-materials) 
 ### [Does this specific journal allow me to share preprints in engrXiv?](#specific-journal)  
 ### [Does Google Scholar index engrXiv?](#google-scholar)
@@ -40,9 +41,13 @@ Although engrXiv is part of the [Open Science Framework Preprints service](http:
 * Preprints: Most people use this term to refer to completed papers that have not yet been peer reviewed (like working papers). However, by some definitions this includes versions of a paper that have been peer reviewed but are not yet published by a journal. However you define preprints, engrXiv will host them.  
 * Postprints: After a paper has been published by a journal, this is a version that you elect to share on our open platform. It may be a version that does not include the journal’s formatting or other changes, or it may be the publisher’s copy (or “version of record”) [if you have the right to distribute it](http://blog.engrxiv.org/2016/07/eprint-policies). This is the version you share when you’ve published something but it’s behind a paywall and you want anyone to be able to read it.
 
+# <a name="multilang"></a>Can I post non-English articles?
+
+engrXiv is happy to accept non-English articles. We would request that you post with an English title and abstract. You might also consider adding an English version of the article on the paper's project page (see [Other Materials](#other-materials)). To that end, authors for articles where the primary language is English can also upload versions in other languages to the paper's project page.
+
 # <a name="other-materials"></a>What about other research materials?
 
-Every paper on engrXiv is automatically associated with a Project on the [Open Science Framework platform](https://osf.io/). Researchers can attach data, code, or other research materials to their papers by including them in the associated project. We also encourage sharing data and code on the Open Science Framework in the spirit of openness and transparency.
+Every paper on engrXiv is automatically associated with a Project on the [Open Science Framework platform](https://osf.io/). Researchers can attach data, code, or other research materials to their papers by including them in the associated project. We also encourage sharing data and code on the Open Science Framework in the spirit of openness and transparency. These other materials could also include article versions in other languages or a simplified version for greater public consumption.
 
 # <a name="specific-journal"></a>I have a specific journal in mind to publish in, do they allow me to share preprints in engrXiv?
 
