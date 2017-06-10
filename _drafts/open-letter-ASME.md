@@ -12,3 +12,6 @@ to instead read:
  
 We hope that as a result of this letter, we may work with relevant leadership from ASME to draft a revised Copyright Transfer Agreement and to help ASME be at the forefront of this new means of research dissemination.
 
+Signed,
+
+Devin R. Berg, Associate Professor, University of Wisconsin-Stout
