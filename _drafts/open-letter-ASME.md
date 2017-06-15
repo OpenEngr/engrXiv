@@ -8,10 +8,11 @@ Change the language found in **Section 2: Permitted Uses:**
  
 to instead read:
  
->“Authors retain the right to post their version of a manuscript in an institutional or subject matter repository or to self-archive on their personal website.”
+>“Authors retain the right to post the author-accepted version of a manuscript in an institutional or subject matter repository or to self-archive on their personal website.”
  
 We hope that as a result of this letter, we may work with relevant leadership from ASME to draft a revised Copyright Transfer Agreement and to help ASME be at the forefront of this new means of research dissemination.
 
 Signed,
 
 Devin R. Berg, Associate Professor, University of Wisconsin-Stout
+Kyle E. Niemeyer, Assistant Professor, Oregon State University
