@@ -23,4 +23,5 @@ Signed,
 
 Devin R. Berg, Associate Professor, University of Wisconsin-Stout  
 Kyle E. Niemeyer, Assistant Professor, Oregon State University  
-Andrew Phillips, Senior Lecturer, Imperial College London  
+Andrew Phillips, Senior Lecturer, Imperial College London
+Jason K. Moore, Faculty, University of California, Davis
