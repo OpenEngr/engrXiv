@@ -1,9 +1,9 @@
----
+----
 **NOTE**
 
 You may add yourself as a signatory on this letter by submitting a pull request [here](https://github.com/OpenEngr/engrXiv/blob/gh-pages/_drafts/open-letter-ASME.md) or by sending an email to `ASMEletter@engrxiv.org` with your name, title, and affiliation in the subject line.
 
----
+----
 
 We, the undersigned academics and researchers from a variety of engineering and supporting fields of study, backgrounds, and personal convictions, are reaching out to the American Society of Mechanical Engineers to request the society’s consideration in the matter of support for the practice of posting for public consumption, manuscripts prior to peer-review intended for later submission to an ASME published journal. 
  
