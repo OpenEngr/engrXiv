@@ -25,3 +25,4 @@ Signed,
 1. Jason K. Moore, Faculty, University of California, Davis  
 1. Kyle E. Niemeyer, Assistant Professor, Oregon State University  
 1. Andrew Phillips, Senior Lecturer, Imperial College London  
+1. Douglas L. Van Bossuyt, Partner, KTM Research LLC  
