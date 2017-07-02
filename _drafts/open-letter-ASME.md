@@ -22,6 +22,7 @@ We hope that as a result of this letter, we may work with relevant leadership fr
 Signed,
 
 1. Devin R. Berg, Associate Professor, University of Wisconsin-Stout  
+1. Kevin M. Moerman, Research Scientist, Massachusetts Institute of Technology  
 1. Jason K. Moore, Faculty, University of California, Davis  
 1. Kyle E. Niemeyer, Assistant Professor, Oregon State University  
 1. Andrew Phillips, Senior Lecturer, Imperial College London  
