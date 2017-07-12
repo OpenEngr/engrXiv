@@ -21,6 +21,7 @@ We hope that as a result of this letter, we may work with relevant leadership fr
 
 Signed,
 
+1. Lorena A. Barba, Associate Professor, The George Washington University  
 1. Devin R. Berg, Associate Professor, University of Wisconsin-Stout  
 1. Kevin M. Moerman, Research Scientist, Massachusetts Institute of Technology  
 1. Jason K. Moore, Faculty, University of California, Davis  
