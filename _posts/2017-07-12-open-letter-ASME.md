@@ -1,7 +1,16 @@
+---
+title: "An open letter to ASME"
+tags: open letter, copyright, ASME
+category: miscellaneous
+permalink: 2017/07/open-letter-ASME
+layout: post
+comments: true
+---
+
 ----
 **NOTE**
 
-You may add yourself as a signatory on this letter by submitting a pull request [here](https://github.com/OpenEngr/engrXiv/blob/gh-pages/_drafts/open-letter-ASME.md) or by sending an email to `ASMEletter@engrxiv.org` with your name, title, and affiliation in the subject line.
+You may add yourself as a signatory on this letter by submitting a pull request [here](https://github.com/OpenEngr/engrXiv/blob/gh-pages/_posts/2017-07-12-open-letter-ASME.md) or by sending an email to `ASMEletter@engrxiv.org` with your name, title, and affiliation in the subject line.
 
 ----
 
