@@ -21,6 +21,6 @@ Preprinting your article with engrXiv at the time of submission and updating the
 #### References cited
 <sup>1</sup>Berg, D.R., Fleischfresser, L., and Niemeyer, K. Open publishing in engineering. Editorial in The Journal of Open Engineering. DOI: [10.21428/12302](http://doi.org/10.21428/12302)  
 <sup>2</sup>Rocha da Silva, P. Born Digital: building the ultimate open-access publisher. Frontiers OA Commentary. Link: [https://blog.frontiersin.org/2015/12/22/born-digital-building-the-ultimate-open-access-publisher/](https://blog.frontiersin.org/2015/12/22/born-digital-building-the-ultimate-open-access-publisher/)  
-<sup>3</sup>Kara H Woo, T.Y. How open science helps researchers succeed. eLife. 5. DOI: [10.7554/eLife.16800.001](https://doi.org/10.7554/eLife.16800.001)  
+<sup>3</sup>McKiernan, E.C., Bourne, P.E., Brown, C.T., et al. How open science helps researchers succeed. eLife. 5. DOI: [10.7554/eLife.16800.001](https://doi.org/10.7554/eLife.16800.001)  
 <sup>4</sup>Tennant J.P., Waldner F., Jacques D.C., et al. The academic, economic and societal impacts of Open Access: an evidence-based review. F1000Research. 5, 632. DOI: [10.12688/f1000research.8460.3](http://dx.doi.org/10.12688/f1000research.8460.3)  
-<sup>5</sup>Primož Južnič, G.T. Impact of open access on citation of scholarly publications in the field of civil engineering. Scientometrics. 98, 2, 1033–1045. DOI: [10.1007/s11192-013-1101-x](http://doi.org/10.1007/s11192-013-1101-x)
+<sup>5</sup>Koler-Povh, T., Južnič, P., and Turk, G. Impact of open access on citation of scholarly publications in the field of civil engineering. Scientometrics. 98, 2, 1033–1045. DOI: [10.1007/s11192-013-1101-x](http://doi.org/10.1007/s11192-013-1101-x)
