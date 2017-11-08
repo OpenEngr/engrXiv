@@ -1,3 +1,4 @@
+### [What are preprints?](#what-are-preprints)  
 ### [What is engrXiv?](#what-is-engrxiv)  
 ### [How do you pronounce engrXiv?](#pronunciation)
 ### [What is open access?](#what-is-oa)  
@@ -15,6 +16,9 @@
 ### [What is the Center for Open Science (COS) and the Open Science Framework (OSF)?](#COS)
 
 <hr><br/>
+# <a name="what-are-preprints"></a>What are preprints?
+If your're brand new to preprints? Check out this introductory video from ASAPBio.  
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2zMgY8Dx9co" frameborder="0" allowfullscreen></iframe>
 
 # <a name="what-is-engrxiv"></a>What is engrXiv?
 
