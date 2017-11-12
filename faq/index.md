@@ -47,7 +47,7 @@ Although engrXiv is part of the [Open Science Framework Preprints service](http:
 
 # <a name="multilang"></a>Can I post non-English articles?
 
-engrXiv is happy to accept non-English articles. We would request that you post with an English title and abstract. You might also consider adding an English version of the article on the paper's project page (see [Other Materials](#other-materials)). To that end, authors for articles where the primary language is English can also upload versions in other languages to the paper's project page.
+engrXiv is happy to accept non-English articles. We would request that you post with an English title and abstract. If you need assistance with producing an English title and abstract, please email [info@engrxiv.org](mailto:info@engrxiv.org) and we will do our best to help with translation. You might also consider adding an English version of the article on the paper's project page (see [Other Materials](#other-materials)), if available. To that end, authors for articles where the primary language is English can also upload versions in other languages to the paper's project page.
 
 # <a name="other-materials"></a>What about other research materials?
 
