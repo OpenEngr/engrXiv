@@ -68,7 +68,7 @@ Yes, as of April 2017 [Google Scholar is successfully ingesting and linking to e
 
 # <a name="DOI"></a>Do papers that are upload to engrXiv receive a Digital Object Identifier?
 
-Not yet. All engrXiv papers are automatically part of an OSF Framework project, however, and authors can mint a DOI for their project (see [this example](https://osf.io/s58q7/)). In addition, if a paper previously has a DOI from a different publisher, that information can be included when uploading it to engrXiv, which will allow the preprint to link to the latest published version. The ability to assign a DOI to a paper directly on engrXiv is coming soon.
+Yes! All engrXiv papers are automatically assigned a DOI upon submission. In addition, if a paper has a DOI from a different publisher, such as the journal, that information can be included when uploading to engrXiv, which will allow the preprint to link to the latest published version. Further, if you later publish a paper that is on engrXiv with a journal, you can update the preprint with the journal's assigned DOI. In fact, many publishers require this.
 
 # <a name="benefits"></a>What are the benefits of using engrXiv?
 
