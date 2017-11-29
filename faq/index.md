@@ -6,6 +6,7 @@
 ### [What can I post to engrXiv?](#what-can-post) 
 ### [Can I post non-English articles?](#multilang) 
 ### [What about other research materials?](#other-materials) 
+### [What licenses are available?](#licensing) 
 ### [Does this specific journal allow me to share preprints in engrXiv?](#specific-journal)  
 ### [Does Google Scholar index engrXiv?](#google-scholar)
 ### [Do papers that are upload to engrXiv receive a Digital Object Identifier?](#DOI)
@@ -52,6 +53,10 @@ engrXiv is happy to accept non-English articles. We would request that you post 
 # <a name="other-materials"></a>What about other research materials?
 
 Every paper on engrXiv is automatically associated with a Project on the [Open Science Framework platform](https://osf.io/). Researchers can attach data, code, or other research materials to their papers by including them in the associated project. We also encourage sharing data and code on the Open Science Framework in the spirit of openness and transparency. These other materials could also include article versions in other languages or a simplified version for greater public consumption.
+
+# <a name="licensing"></a>What licenses are available??
+
+When you upload your article, you are given the option to license it. Although you’re not required to license your preprint, doing so provides a means for you to communicate how you would like others to use your work. The current licenses available on engrXiv are [CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/) and [CC BY Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/). These are open licenses. If you’re going to share supplemental data and/or code, [OSF Projects](https://osf.io/) can be licensed separately from the preprints. Additional licenses are available on projects. For more information about licenses, see further info from [Creative Commons](https://creativecommons.org/choose/).
 
 # <a name="specific-journal"></a>I have a specific journal in mind to publish in, do they allow me to share preprints in engrXiv?
 
