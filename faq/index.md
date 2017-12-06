@@ -1,20 +1,20 @@
-### [What are preprints?](#what-are-preprints)  
-### [What is engrXiv?](#what-is-engrxiv)  
-### [How do you pronounce engrXiv?](#pronunciation)
-### [What is open access?](#what-is-oa)  
-### [What is a “preprint”, “postprint”, or “eprint”?](#what-is-preprint)  
-### [What can I post to engrXiv?](#what-can-post) 
-### [Can I post non-English articles?](#multilang) 
-### [What about other research materials?](#other-materials) 
-### [What licenses are available?](#licensing) 
-### [Does this specific journal allow me to share preprints in engrXiv?](#specific-journal)  
-### [Does Google Scholar index engrXiv?](#google-scholar)
-### [Do papers that are upload to engrXiv receive a Digital Object Identifier?](#DOI)
-### [What are the benefits of using engrXiv?](#benefits)
-### [What is the legal status of engrXiv?](#legal-status)
-### [How can we be sure that engrXiv will remain independent?](#independence)
-### [How can I support engrXiv?](#support)
-### [What is the Center for Open Science (COS) and the Open Science Framework (OSF)?](#COS)
+**[What are preprints?](#what-are-preprints)**  
+**[What is engrXiv?](#what-is-engrxiv)**  
+**[How do you pronounce engrXiv?](#pronunciation)**
+**[What is open access?](#what-is-oa)**  
+**[What is a “preprint”, “postprint”, or “eprint”?](#what-is-preprint)**  
+**[What can I post to engrXiv?](#what-can-post)**  
+**[Can I post non-English articles?](#multilang)**  
+**[What about other research materials?](#other-materials)**  
+**[What licenses are available?](#licensing)**  
+**[Does this specific journal allow me to share preprints in engrXiv?](#specific-journal)**  
+**[Does Google Scholar index engrXiv?](#google-scholar)**  
+**[Do papers that are upload to engrXiv receive a Digital Object Identifier?](#DOI)**  
+**[What are the benefits of using engrXiv?](#benefits)**  
+**[What is the legal status of engrXiv?](#legal-status)**  
+**[How can we be sure that engrXiv will remain independent?](#independence)**  
+**[How can I support engrXiv?](#support)**  
+**[What is the Center for Open Science (COS) and the Open Science Framework (OSF)?](#COS)**  
 
 <hr><br/>
 # <a name="what-are-preprints"></a>What are preprints?
