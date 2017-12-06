@@ -1,6 +1,6 @@
 **[What are preprints?](#what-are-preprints)**  
 **[What is engrXiv?](#what-is-engrxiv)**  
-**[How do you pronounce engrXiv?](#pronunciation)**
+**[How do you pronounce engrXiv?](#pronunciation)**  
 **[What is open access?](#what-is-oa)**  
 **[What is a “preprint”, “postprint”, or “eprint”?](#what-is-preprint)**  
 **[What can I post to engrXiv?](#what-can-post)**  
