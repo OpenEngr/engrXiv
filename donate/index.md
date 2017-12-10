@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-We've tried to make our finances as transparent as possible. Thus you can view our ledger of income and expenses on our [financials page](http://blog.engrxiv.org/financials/). Currently our regularly occurring monthly expenses total a modest $4.61 which includes domain registrations and the SSL certifcicate. Income beyond these fixed costs would go towards marketing and community building efforts.
+We've tried to make our finances as transparent as possible. Thus you can view our ledger of income and expenses on our [financials page](http://blog.engrxiv.org/financials/). Currently our regularly occurring monthly expenses total a modest $4.61 which includes domain registrations and the SSL certificate. Income beyond these fixed costs would go towards marketing and community building efforts.
 
 ## Tax-Deductible Methods
 ### Governance, Marketing, and Administrative Operations
