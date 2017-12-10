@@ -13,7 +13,7 @@ engrXiv has partnered with the nonprofit [Center for Open Science (COS)](https:/
 **[Donation Link](https://www.crowdrise.com/donate/charity/centerforopenscience)**
 
 ## Non-Deductible Methods
-## Online payment
+### Online payment
 Paypal (USD): [paypal.me/openengr](https://www.paypal.me/openengr)  
 ### Cryptocurrency 
 Bitcoin (BTC): `1JkMh8hArTWaniXEey3vUdjz2oBFGfAEVu`  
