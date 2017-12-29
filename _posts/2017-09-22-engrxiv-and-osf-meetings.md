@@ -11,4 +11,4 @@ Far too often we see conferences host their proceedings on the temporary confere
 
 <img src="https://github.com/OpenEngr/engrXiv/raw/gh-pages/images/OSFmeetings.PNG" width="700px"/>
 
-If you are intersted in hosting your conference proceedings on [OSF for Meetings](https://osf.io/meetings/) and [engrXiv](https://engrxiv.org/), send us an email at [info@engrxiv.org](mailto:info@engrxiv.org).
+If you are interested in hosting your conference proceedings on [OSF for Meetings](https://osf.io/meetings/) and [engrXiv](https://engrxiv.org/), send us an email at [info@engrxiv.org](mailto:info@engrxiv.org).
