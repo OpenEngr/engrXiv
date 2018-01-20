@@ -76,7 +76,7 @@ Yes! All engrXiv papers are automatically assigned a DOI upon submission. In add
 * Download statistics
 * Getting your work out faster than traditional publishing
 * One place to store many outputs and materials for each project
-* Promote social science without walls by supporting open access, open source, public goods research infrastructure.
+* Promote open dissemination of engineering knowledge by supporting open access, open source, public goods research infrastructure.
 
 # <a name="legal-status"></a>What is the legal status of engrXiv?
 
