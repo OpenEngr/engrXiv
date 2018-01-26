@@ -3,6 +3,7 @@
 **[How do you pronounce engrXiv?](#pronunciation)**  
 **[What is open access?](#what-is-oa)**  
 **[What is a “preprint”, “postprint”, or “eprint”?](#what-is-preprint)**  
+**[What is engrXiv's relationship with arXiv?](#arxiv)**  
 **[What can I post to engrXiv?](#what-can-post)**  
 **[Can I post non-English articles?](#multilang)**  
 **[What about other research materials?](#other-materials)**  
@@ -37,6 +38,10 @@ Historically, academic journal articles are published behind “paywalls,” whi
 # <a name="what-is-preprint"></a>What is a “preprint”, “postprint”, or “eprint”?
 
 A preprint is generally considered to be “a manuscript draft that has not yet been subject to formal peer review, distributed to receive early feedback on research from peers” (Source: [Open Research Glossary](https://figshare.com/articles/Open_Research_Glossary/1482094)). Some people also refer to this as an “[unrefereed preprint](http://biorxiv.org/content/what-unrefereed-preprint).” By another definition, “preprint” includes papers that have been accepted for publication in a scholarly journal, but not yet been “printed” (on paper or electronically). For example, when journals post accepted papers that have not yet been “published,” these may be called preprints as well. A “postprint” is another name that is sometimes used for article in this state. At engrXiv, we sometimes use the term “[eprint](https://en.wikipedia.org/wiki/Eprint)” to collectively refer to both preprints and postprints.
+
+# <a name="arxiv"></a>What is engrXiv's relationship with arXiv?
+
+ArXiv is a trademark of Cornell University, used under license. This license should not be understood to indicate endorsement of content on engrXiv by Cornell University or ArXiv. engrXiv operates independently as part of the open access community of projects supported by the Center for Open Science.
 
 # <a name="what-can-post"></a>What can I post to engrXiv?
 
