@@ -1,3 +1,6 @@
+---
+layout: default
+---
 **[What are preprints?](#what-are-preprints)**  
 **[What is engrXiv?](#what-is-engrxiv)**  
 **[How do you pronounce engrXiv?](#pronunciation)**  

@@ -1,3 +1,6 @@
+---
+layout: default
+---
 # engrXiv Submission and Moderation Guidelines
 
 ## General Information
