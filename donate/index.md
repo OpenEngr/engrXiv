@@ -18,6 +18,3 @@ Become a monthly supporter on Patreon! Monthly support helps us cover our regula
 Patreon: [patreon.com/openengr](https://www.patreon.com/openengr)
 ### Online payment
 Paypal (USD): [paypal.me/openengr](https://www.paypal.me/openengr)  
-### Cryptocurrency 
-Bitcoin (BTC): `1JkMh8hArTWaniXEey3vUdjz2oBFGfAEVu`  
-Ether (ETH): `0x05BE6cb8375c64Fc0Ccbaa6679DA21d229f7CD02`  
