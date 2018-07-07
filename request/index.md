@@ -20,3 +20,5 @@ The engrXiv Request Button, also known as the Open Engineering Button, is a simp
 6. We will request the article from the author and notify you if and when they upload a copy to engrXiv.
 
 ## Bookmarklet: [engrXiv request](javascript:(function(){location.href='mailto:request@engrxiv.org?SUBJECT=Open%20Engineering%20Request&BODY=URL%3A%20'+escape(location.href)+encodeURI('\r\nAuthor%20Email:%20\r\n\r\nYour%20Name:%20\r\nYour%20Affiliation:%20\r\nReason%20for%20request:%20')})();)
+
+*Note that this bookmarklet uses a `mailto` link and thus your browser needs to be setup to direct these links to your preferred email client. You can check out the instructions on [this page](https://www.chainsawonatireswing.com/2015/05/03/a-guide-to-getting-webmail-services-to-work-with-mailto-links/#gmail-in-firefox-on-windows-os-x--linux) to change your settings to properly handle `mailto` links.*
