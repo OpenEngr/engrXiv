@@ -17,6 +17,6 @@ The engrXiv Request Button, also known as the Open Engineering Button, is a simp
 3. Click the bookmarklet.
 4. A draft email should open in your default email client. Complete the fields of this email.
 5. Hit send.
-6. We will request the article from the author and notify if and when they upload a copy to engrXiv.
+6. We will request the article from the author and notify you if and when they upload a copy to engrXiv.
 
 ## Bookmarklet: [engrXiv request](javascript:(function(){location.href='mailto:request@engrxiv.org?SUBJECT=Open%20Engineering%20Request&BODY=URL%3A%20'+escape(location.href)+encodeURI('\r\nAuthor%20Email:%20\r\n\r\nYour%20Name:%20\r\nYour%20Affiliation:%20\r\nReason%20for%20request:%20')})();)
