@@ -14,6 +14,7 @@ layout: default
 **[Does this specific journal allow me to share preprints in engrXiv?](#specific-journal)**  
 **[Does Google Scholar index engrXiv?](#google-scholar)**  
 **[Do papers that are upload to engrXiv receive a Digital Object Identifier?](#DOI)**  
+**[Can I add comments on a preprint?](#annotation)**  
 **[What are the benefits of using engrXiv?](#benefits)**  
 **[What is the legal status of engrXiv?](#legal-status)**  
 **[How can we be sure that engrXiv will remain independent?](#independence)**  
@@ -102,6 +103,12 @@ Yes, as of April 2017 [Google Scholar is successfully ingesting and linking to e
 # Do papers that are upload to engrXiv receive a Digital Object Identifier?
 
 Yes! All engrXiv papers are automatically assigned a DOI upon submission. In addition, if a paper has a DOI from a different publisher, such as the journal, that information can be included when uploading to engrXiv, which will allow the preprint to link to the latest published version. Further, if you later publish a paper that is on engrXiv with a journal, you can update the preprint with the journal's assigned DOI. In fact, many publishers require this.
+
+<a name="annotation"></a>
+<br/>
+# Can I add comments on a preprint?
+
+Yes! We have integrated with the annotation service [Hypothesis](https://web.hypothes.is) which uses the W3C web annotation standard to providing commenting and highlighting capabilities directly with the preprint preview for all preprints. Annotations made using Hypothesis are licensed [CC0](https://creativecommons.org/share-your-work/public-domain/cc0/). For more information on annotating preprints, see [this help document](http://help.osf.io/m/preprints/l/933230-annotate-a-preprint).
 
 <a name="benefits"></a>
 <br/>
