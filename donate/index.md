@@ -10,7 +10,8 @@ engrXiv is directed by Devin Berg in a volunteer role. Donations to support the 
 
 ## Non-Deductible
 ### Monthly support
-Become a monthly supporter on Patreon! Monthly support helps us cover our regularly occurring expenses as well as possibly fund outreach and marketing to promote open engineering practices more widely.  
+Become a monthly supporter on Patreon or Liberapay! Monthly support helps us cover our regularly occurring expenses as well as possibly fund outreach and marketing to promote open engineering practices more widely.  
 Patreon: [patreon.com/openengr](https://www.patreon.com/openengr)
+Liberapay: [liberapay.com/openengr/](https://liberapay.com/openengr/)
 ### Online payment
 Paypal (USD): [paypal.me/openengr](https://www.paypal.me/openengr)  
