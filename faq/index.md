@@ -98,6 +98,13 @@ Most publishers do permit sharing of preprint versions. And most journals will l
 
 Yes, as of April 2017 [Google Scholar is successfully ingesting and linking to engrXiv papers](https://scholar.google.com/scholar?as_q=&as_epq=&as_oq=&as_eq=&as_occt=any&as_sauthors=&as_publication=engrXiv&as_ylo=&as_yhi=&hl=en&as_sdt=0%2C50) (and other papers on the OSF Preprints server).
 
+Note that if you observe that Google Scholar doesn't seem to be indexing your paper, please check the following:  
+* Authors must have fullnames on the papers. Authors with only one name - e.g. "Julie" --- won't be indexed
+* Author names must be properly capitalized --- lowercase names, e.g. "pat smith" --- may not be indexed
+* Does the paper correspond to an archival article already in Google Scholar? If yes, new versions for archival articles are added during full index rebuilds which happen twice a year. 
+
+Please note that it can take up to a few weeks for Google Scholar to index a new post. Sometimes it is fast, sometimes it is slow. Unfortunately, we don't have much control over the process.
+
 <a name="DOI"></a>
 <br/>
 # Do papers that are upload to engrXiv receive a Digital Object Identifier?
