@@ -14,11 +14,11 @@ engrXiv is directed by a steering committee of engineers and members of the engi
 	<li><a href="http://www.devinberg.com/">Devin R. Berg</a>, mechanical engineer, University of Wisconsin-Stout</li>
 	<li><a href="http://mime.oregonstate.edu/people/dupont" target="_blank">Bryony Dupont</a>, mechanical engineer, Oregon State University</li>
 	<li><a href="http://directory.uark.edu/people/dcjensen" target="_blank">David Jensen</a>, mechanical engineer, University of Arkansas</li>
-	<li><a href="http://biomech.media.mit.edu/people/" target="_blank">Kevin Moerman</a>, biomechanical engineer, Massachusetts Institute of Technology</li>
+	<li><a href="https://kevinmoerman.org/" target="_blank">Kevin Moerman</a>, biomechanical engineer, National University of Ireland Galway</li>
 	<li><a href="http://kyleniemeyer.com" target="_blank">Kyle Niemeyer</a>, mechanical engineer, Oregon State University</li>
 	<li><a href="http://www.douglasvanbossuyt.com/" target="_blank">Douglas Van Bossuyt</a>, mechanical engineer, KTM Research</li>
 </ul>
-Follow us on <a href="https://twitter.com/engrXiv" target="_blank">Twitter</a> or <a href="https://www.facebook.com/engrXiv" target="_blank">Facebook</a> or watch the [engrXiv blog](http://blog.engrxiv.org/) for updates. Organizations interested in partnering with engrXiv to expand archiving in the engineering field should contact [info@engrxiv.org](mailto:info@engrxiv.org).
+Follow us on <a href="https://twitter.com/engrXiv" target="_blank">Twitter</a> or <a href="https://www.facebook.com/engrXiv" target="_blank">Facebook</a> or watch the <a href="https://blog.engrxiv.org/" target="_blank">engrXiv blog</a> for updates. Organizations interested in partnering with engrXiv to expand archiving in the engineering field should contact [info@engrxiv.org](mailto:info@engrxiv.org).
 
 &nbsp;
 
