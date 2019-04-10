@@ -15,6 +15,7 @@ layout: default
 **[Does Google Scholar index engrXiv?](#google-scholar)**  
 **[Do papers that are upload to engrXiv receive a Digital Object Identifier?](#DOI)**  
 **[Can I add comments on a preprint?](#annotation)**  
+**[Can I withdraw my preprint?](#withdrawal)**  
 **[What are the benefits of using engrXiv?](#benefits)**  
 **[What is the legal status of engrXiv?](#legal-status)**  
 **[How can we be sure that engrXiv will remain independent?](#independence)**  
@@ -116,6 +117,12 @@ Yes! All engrXiv papers are automatically assigned a DOI upon submission. In add
 # Can I add comments on a preprint?
 
 Yes! We have integrated with the annotation service [Hypothesis](https://web.hypothes.is) which uses the W3C web annotation standard to providing commenting and highlighting capabilities directly with the preprint preview for all preprints. Annotations made using Hypothesis are licensed [CC0](https://creativecommons.org/share-your-work/public-domain/cc0/). For more information on annotating preprints, see [this help document](http://help.osf.io/m/preprints/l/933230-annotate-a-preprint).
+
+<a name="withdrawal"></a>
+<br/>
+# Can I withdraw my preprint?
+
+Authors may request to withdraw a preprint if they deem this to be necessary. On rare occasions this may be necessary for legal reasons such as to comply with publisher copyright policies. If the author withdraws a preprint prior to moderator acceptance, the preprint will be immediately removed from the moderation queue and will leave no public record. If the preprint has already been posted publicly, after moderator approval, withdrawal then requires moderator approval. If approved, the preprint file will no longer be available. However, basic metadata including the title, authors, and the reason for withdrawal submitted by the corresponding author will remain public.
 
 <a name="benefits"></a>
 <br/>

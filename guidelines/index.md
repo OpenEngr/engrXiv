@@ -15,7 +15,7 @@ engrXiv accepts scholarly work from across the engineering field, broadly define
 
 ## Moderation Policy
 
-engrXiv accepts papers at any stage of the publication process. We moderate papers that are submitted to the service after they appear publicly, which is called “post-moderation” on the Open Science Framework platform. To learn more about how this moderation works on our system, [visit this page from our hosts](http://help.osf.io/m/preprints/l/806116-submitting-to-a-preprint-service-that-uses-moderation#submitting-to-a-preprint-services-that-uses-post-moderation). Subject to volume demands, we expect to review each paper submitted for moderation within 3 business days.
+engrXiv accepts papers at any stage of the publication process. We moderate papers that are submitted to the service before they appear publicly, which is called “pre-moderation” on the Open Science Framework platform. To learn more about how this moderation works on our system, [visit this page from our hosts](http://help.osf.io/m/preprints/l/806116-submitting-to-a-preprint-service-that-uses-moderation#submitting-to-preprint-service-that-uses-a-pre-moderation). Subject to volume demands, we expect to review each paper submitted for moderation within 3 business days.
 
 The engrXiv moderation process accepts papers that:
 
@@ -31,4 +31,7 @@ The engrXiv moderation process accepts papers that:
 
 ## Moderation Procedure
 
-Work will be reviewed by a moderator after appearing publicly on engrXiv. If something is rejected, the moderator will include a description of the reason. Work that does not pass moderation will remain on the OSF platform but will not be identified as part of engrXiv. Authors are free to resubmit such work after addressing the issues raised by the moderator. Authors also may contact [info@engrxiv.org](mailto:info@engrxiv.org) to discuss or appeal a rejection.
+Work will be reviewed by a moderator before appearing publicly on engrXiv. If something is rejected, the moderator will include a description of the reason. Work that does not pass moderation will remain on the OSF platform but will not be identified as part of engrXiv. Authors are free to resubmit such work after addressing the issues raised by the moderator. Authors also may contact [info@engrxiv.org](mailto:info@engrxiv.org) to discuss or appeal a rejection.
+
+## Withdrawing a Preprint
+Authors may request to withdraw a preprint if they deem this to be necessary. On rare occasions this may be necessary for legal reasons such as to comply with publisher copyright policies. If the author withdraws a preprint prior to moderator acceptance, the preprint will be immediately removed from the moderation queue and will leave no public record. If the preprint has already been posted publicly, after moderator approval, withdrawal then requires moderator approval. If approved, the preprint file will no longer be available. However, basic metadata including the title, authors, and the reason for withdrawal submitted by the corresponding author will remain public.
