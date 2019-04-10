@@ -150,7 +150,7 @@ engrXiv does not own your papers and anyone can always continue to give them awa
 <br/>
 # How can I support engrXiv?
 
-We are so glad you asked! The easiest way to support engrXiv right now is to help us spread the word. Use the service and encourage your friends to use it. If you meant financially, we can accept [individual donations via the Stout University Foundation](https://foundation.uwstout.edu/pages/givings/engrxiv). If you represent a foundation or other grant giving agency interested in partnering with us, please get in touch with [engrXiv Director Devin Berg](http://www.devinberg.com/).
+We are so glad you asked! The easiest way to support engrXiv is to help us spread the word. Use the service and encourage your friends to use it. If you meant financially, we can accept [individual one-time or recurring donations](https://blog.engrxiv.org/donate/). If you represent a foundation or other grant giving agency interested in partnering with us, please get in touch with [engrXiv Director Devin Berg](http://www.devinberg.com/).
 
 <a name="COS"></a>
 <br/>
