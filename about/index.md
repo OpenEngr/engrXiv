@@ -15,6 +15,7 @@ engrXiv is directed by a steering committee of engineers and members of the engi
 	<li><a href="http://mime.oregonstate.edu/people/dupont" target="_blank">Bryony Dupont</a>, mechanical engineer, Oregon State University</li>
 	<li><a href="http://directory.uark.edu/people/dcjensen" target="_blank">David Jensen</a>, mechanical engineer, University of Arkansas</li>
 	<li><a href="https://kevinmoerman.org/" target="_blank">Kevin Moerman</a>, biomechanical engineer, National University of Ireland Galway</li>
+	<li><a href="http://www.moorepants.info/" target="_blank">Jason Moore</a>, mechanical engineer, University of California-Davis</li>
 	<li><a href="http://kyleniemeyer.com" target="_blank">Kyle Niemeyer</a>, mechanical engineer, Oregon State University</li>
 	<li><a href="http://www.douglasvanbossuyt.com/" target="_blank">Douglas Van Bossuyt</a>, mechanical engineer, KTM Research</li>
 </ul>
