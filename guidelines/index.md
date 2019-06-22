@@ -15,7 +15,7 @@ engrXiv accepts scholarly work from across the engineering field, broadly define
 
 ## Moderation Policy
 
-engrXiv accepts papers at any stage of the publication process. We moderate papers that are submitted to the service before they appear publicly, which is called “pre-moderation” on the Open Science Framework platform. To learn more about how this moderation works on our system, [visit this page from our hosts](http://help.osf.io/m/preprints/l/806116-submitting-to-a-preprint-service-that-uses-moderation#submitting-to-preprint-service-that-uses-a-pre-moderation). Subject to volume demands, we expect to review each paper submitted for moderation within 3 business days.
+engrXiv accepts papers at any stage of the publication process. We moderate papers that are submitted to the service before they appear publicly, which is called “pre-moderation” on the Open Science Framework platform. To learn more about how this moderation works on our system, [visit this page from our hosts](https://openscience.zendesk.com/hc/en-us/articles/360019930553-Submitting-to-a-Moderated-Preprint-Service#submitting-to-preprint-service-that-uses-a-pre-moderation). Subject to volume demands, we expect to review each paper submitted for moderation within 3 business days.
 
 The engrXiv moderation process accepts papers that:
 

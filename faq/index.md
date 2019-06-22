@@ -79,7 +79,7 @@ engrXiv is happy to accept non-English articles. We would request that you post 
 <br/>
 # What about other research materials?
 
-Every paper on engrXiv is automatically associated with a Project on the [Open Science Framework platform](https://osf.io/). Researchers can attach data, code, or other research materials to their papers by including them in the associated project. We also encourage sharing data and code on the Open Science Framework in the spirit of openness and transparency. These other materials could also include article versions in other languages or a simplified version for greater public consumption.
+Every paper on engrXiv can be easily associated with a "Project" on the [Open Science Framework platform](https://osf.io/). Researchers can attach data, code, or other research materials to their papers by including them in the associated project. We also encourage sharing data and code on the Open Science Framework in the spirit of openness and transparency. These other materials could also include article versions in other languages or a simplified version for greater public consumption.
 
 <a name="licensing"></a>
 <br/>
@@ -116,7 +116,7 @@ Yes! All engrXiv papers are automatically assigned a DOI upon submission. In add
 <br/>
 # Can I add comments on a preprint?
 
-Yes! We have integrated with the annotation service [Hypothesis](https://web.hypothes.is) which uses the W3C web annotation standard to providing commenting and highlighting capabilities directly with the preprint preview for all preprints. Annotations made using Hypothesis are licensed [CC0](https://creativecommons.org/share-your-work/public-domain/cc0/). For more information on annotating preprints, see [this help document](http://help.osf.io/m/preprints/l/933230-annotate-a-preprint).
+Yes! We have integrated with the annotation service [Hypothesis](https://web.hypothes.is) which uses the W3C web annotation standard to providing commenting and highlighting capabilities directly with the preprint preview for all preprints. Annotations made using Hypothesis are licensed [CC0](https://creativecommons.org/share-your-work/public-domain/cc0/). For more information on annotating preprints, see [this help document](https://openscience.zendesk.com/hc/en-us/articles/360019738554-Annotate-a-Preprint).
 
 <a name="withdrawal"></a>
 <br/>
@@ -144,7 +144,7 @@ engrXiv is a partner of the nonprofit [Center for Open Science (COS)](https://co
 <br/>
 # How can we be sure that engrXiv will remain independent?
 
-engrXiv does not own your papers and anyone can always continue to give them away for free, which means that the service does not have much monetary value to a private entity. In addition, the whole Center for Open Science system is backed up by [“a $250,000 preservation fund for hosted data in the event that COS had to curtail or close its offices. If activated, the preservation fund will preserve and maintain read access to hosted data.”](https://osf.io/faq/)
+engrXiv does not own your papers and anyone can always continue to give them away for free, which means that the service does not have much monetary value to a private entity. In addition, the whole Center for Open Science system is backed up by [“a $250,000 preservation fund for hosted data in the event that COS had to curtail or close its offices. If activated, the preservation fund will preserve and maintain read access to hosted data.”](https://openscience.zendesk.com/hc/en-us/articles/360019737894-FAQs#what-if-you-run-out-of-funding-what-happens-to-my-data)
 
 <a name="support"></a>
 <br/>
@@ -156,4 +156,4 @@ We are so glad you asked! The easiest way to support engrXiv is to help us sprea
 <br/>
 # What is the Center for Open Science (COS) and the Open Science Framework (OSF)?
 
-COS is our technology partner and the owner of OSF Preprints, the platform on which engrXiv runs. OSF Preprints is a part of [OSF](https://cos.io/our-products/open-science-framework/), which “provides free and open source project management support for researchers across the entire research lifecycle.” It not only hosts engrXiv papers, but also allows you to link your papers to other components of your research projects, such as data and code. You can learn more about COS by visiting their [FAQ page](https://osf.io/faq/).
+COS is our technology partner and the owner of OSF Preprints, the platform on which engrXiv runs. OSF Preprints is a part of [OSF](https://cos.io/our-products/open-science-framework/), which “provides free and open source project management support for researchers across the entire research lifecycle.” It not only hosts engrXiv papers, but also allows you to link your papers to other components of your research projects, such as data and code. You can learn more about COS by visiting their [FAQ page](https://openscience.zendesk.com/hc/en-us/articles/360019737894-FAQs).
