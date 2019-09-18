@@ -4,10 +4,10 @@ layout: default
 ## Membership Circle Members
 <table>
 <tr>
-<td>![University of Washington Libraries logo.](/membership-circle/MC_member_logos/UWashington.jpg)</td>
+<td><img alt="University of Washington Libraries logo." src="/membership-circle/MC_member_logos/UWashington.jpg" /></td>
 </tr>
 <tr>
-<td>[University of Washington Libraries](https://www.lib.washington.edu/)</td>
+<td><a href="https://www.lib.washington.edu/">University of Washington Libraries</a></td>
 </tr>
 </table>
 
