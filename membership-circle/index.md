@@ -2,7 +2,14 @@
 layout: default
 ---
 ## Membership Circle Members
-
+<table>
+<tr>
+<td>![University of Washington Libraries logo.](/membership-circle/MC_member_logos/UWashington.jpg)</td>
+</tr>
+<tr>
+<td>[University of Washington Libraries](https://www.lib.washington.edu/)</td>
+</tr>
+</table>
 
 
 
