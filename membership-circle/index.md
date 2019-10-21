@@ -4,8 +4,8 @@ layout: default
 ## Membership Circle Members
 <table>
 <tr>
-<td><img alt="University of Washington Libraries logo." src="/membership-circle/MC_member_logos/UWashington.jpg" /></td>
-<td><img alt="University of Washington Libraries logo." src="/membership-circle/MC_member_logos/generic.png" /></td>
+<td style="display: block; margin-left: auto; margin-right: auto;"><img alt="University of Washington Libraries logo." src="/membership-circle/MC_member_logos/UWashington.jpg" /></td>
+<td style="display: block; margin-left: auto; margin-right: auto;"><img alt="University of Washington Libraries logo." src="/membership-circle/MC_member_logos/generic.png" /></td>
 </tr>
 <tr>
 <td style="padding:0 15px 0 15px; text-align:center;"><a href="https://www.lib.washington.edu/">University of Washington Libraries</a></td>
