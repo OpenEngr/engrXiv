@@ -8,8 +8,8 @@ layout: default
 <td><img alt="University of Washington Libraries logo." src="/membership-circle/MC_member_logos/generic.png" /></td>
 </tr>
 <tr>
-<td><a href="https://www.lib.washington.edu/" style="text-align:center;">University of Washington Libraries</a></td>
-<td><a href="https://library.princeton.edu/" style="text-align:center;">Princeton University Library</a></td>
+<td style="padding:0 15px 0 15px; text-align:center;"><a href="https://www.lib.washington.edu/">University of Washington Libraries</a></td>
+<td style="padding:0 15px 0 15px; text-align:center;"><a href="https://library.princeton.edu/">Princeton University Library</a></td>
 </tr>
 </table>
 
