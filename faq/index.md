@@ -138,7 +138,7 @@ Authors may request to withdraw a preprint if they deem this to be legally neces
 <br/>
 # What is the legal status of engrXiv?
 
-engrXiv is a partner of the nonprofit [Center for Open Science (COS)](https://cos.io/), and engrXiv as a web platform is hosted on the OSF Framework. As a legal entity, engrXiv is administered in part by the University of Wisconsin-Stout. Grants and donations come to UW-Stout, and then are administered by engrXiv Director [Devin Berg](http://www.devinberg.com). The engrXiv [Steering Committee](http://blog.engrxiv.org/about/) is actively involved in an advisory role, and volunteer working groups provide additional assistance. The Stout University Foundation provides fiscal oversight, ensuring that all expenses paid are justified according to University standards.
+engrXiv is a partner of the nonprofit [Center for Open Science (COS)](https://cos.io/), and engrXiv as a web platform is hosted on the OSF Framework. As a legal entity, engrXiv is administered by Open Engineering Inc., a 501(c)(3) nonprofit organization under the direction of [Devin Berg](https://www.devinberg.com). The engrXiv [Steering Committee](http://blog.engrxiv.org/about/) is actively involved in an advisory role, and volunteer working groups provide additional assistance.
 
 <a name="independence"></a>
 <br/>
