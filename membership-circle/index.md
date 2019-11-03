@@ -23,3 +23,5 @@ The Engineering Archive Membership Circle is for institutions or organizations i
 **What you get:** our acknowledgement of your organization as a supporter on our website and social media channels (unless you ask us not to).
 
 Those interested in joining the Membership Circle should email [info@engrxiv.org](mailto:info@engrxiv.org).
+
+<sub>\*Note: From an administrative perspective, we are not a membership based organization and joining the Membership Circle does not convey any voting rights within the organization.</sub>
