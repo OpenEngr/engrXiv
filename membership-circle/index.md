@@ -14,10 +14,10 @@ layout: default
 <td style="padding:0 15px 0 15px; text-align:center;"><a href="https://library.harvard.edu/">Harvard Library</a></td>
 </tr>
 <tr>
-<td style="padding:0 15px 0 15px; text-align:center;"><a href="https://library.mines.edu/">Arthur Lakes Library - Colorado School of Mines</a></td>
+<td style="text-align:center;"><img alt="Arthur Lakes Library logo." src="/membership-circle/MC_member_logos/mines.png" /></td>
 </tr>
 <tr>
-<td style="text-align:center;"><img alt="Arthur Lakes Library logo." src="/membership-circle/MC_member_logos/mines.png" /></td>
+<td style="padding:0 15px 0 15px; text-align:center;"><a href="https://library.mines.edu/">Arthur Lakes Library - Colorado School of Mines</a></td>
 </tr>
 </table>
 
