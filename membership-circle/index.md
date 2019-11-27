@@ -1,8 +1,64 @@
 ---
 layout: default
 ---
+<style>
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: Arial;
+}
+
+.header {
+  text-align: center;
+  padding: 32px;
+}
+
+.row {
+  display: -ms-flexbox; /* IE10 */
+  display: flex;
+  -ms-flex-wrap: wrap; /* IE10 */
+  flex-wrap: wrap;
+  padding: 0 4px;
+}
+
+/* Create four equal columns that sits next to each other */
+.column {
+  -ms-flex: 25%; /* IE10 */
+  flex: 25%;
+  max-width: 25%;
+  padding: 0 4px;
+}
+
+.column img {
+  margin-top: 8px;
+  vertical-align: middle;
+  width: 100%;
+}
+
+/* Responsive layout - makes a two column-layout instead of four columns */
+@media screen and (max-width: 800px) {
+  .column {
+    -ms-flex: 50%;
+    flex: 50%;
+    max-width: 50%;
+  }
+}
+
+/* Responsive layout - makes the two columns stack on top of each other instead of next to each other */
+@media screen and (max-width: 600px) {
+  .column {
+    -ms-flex: 100%;
+    flex: 100%;
+    max-width: 100%;
+  }
+}
+</style>
+
 ## Membership Circle Members
-<table>
+<!--<table>
 <tr>
 <td style="text-align:center;"><img alt="University of Washington Libraries logo." src="/membership-circle/MC_member_logos/UWashington.jpg" /></td>
 <td style="text-align:center;"><img alt="generic logo." src="/membership-circle/MC_member_logos/generic.png" /></td>
@@ -23,7 +79,31 @@ layout: default
 <td style="padding:0 15px 0 15px; text-align:center;"><a href="https://www.mcgill.ca/library/">McGill University Library</a></td>
 <td style="padding:0 15px 0 15px; text-align:center;"><a href="https://library.kaust.edu.sa/">KAUST University Library</a></td>
 </tr>
-</table>
+</table>-->
+
+<!-- Photo Grid -->
+<div class="row"> 
+  <div class="column">
+    <img src="/membership-circle/MC_member_logos/UWashington.jpg" style="width:100%">
+    <a href="https://www.lib.washington.edu/">University of Washington Libraries</a>
+    <img src="/membership-circle/MC_member_logos/mines.png" style="width:100%">
+    <a href="https://library.mines.edu/">Arthur Lakes Library - Colorado School of Mines</a>
+  </div>
+  <div class="column">
+    <img src="/membership-circle/MC_member_logos/generic.png" style="width:100%">
+    <a href="https://library.princeton.edu/">Princeton University Library</a>
+    <img src="/membership-circle/MC_member_logos/mcgill.png" style="width:100%">
+    <a href="https://www.mcgill.ca/library/">McGill University Library</a>
+    <img src="/w3images/rocks.jpg" style="width:100%">
+    <img src="/w3images/underwater.jpg" style="width:100%">
+  </div>  
+  <div class="column">
+    <img src="/membership-circle/MC_member_logos/harvard-library.jpg" style="width:100%">
+    <a href="https://library.harvard.edu/">Harvard Library</a>
+    <img src="/membership-circle/MC_member_logos/kaust.png" style="width:100%">
+    <a href="https://library.kaust.edu.sa/">KAUST University Library</a>
+  </div>
+</div>
 
 
 
