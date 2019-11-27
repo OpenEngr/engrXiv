@@ -87,15 +87,13 @@ body {
     <img src="/membership-circle/MC_member_logos/UWashington.jpg" style="width:100%">
     <a href="https://www.lib.washington.edu/">University of Washington Libraries</a>
     <img src="/membership-circle/MC_member_logos/mines.png" style="width:100%">
-    <a href="https://library.mines.edu/">Arthur Lakes Library - Colorado School of Mines</a>
+    <a style="text-align:center;" href="https://library.mines.edu/">Arthur Lakes Library - Colorado School of Mines</a>
   </div>
   <div class="column">
     <img src="/membership-circle/MC_member_logos/generic.png" style="width:100%">
     <a href="https://library.princeton.edu/">Princeton University Library</a>
     <img src="/membership-circle/MC_member_logos/mcgill.png" style="width:100%">
     <a href="https://www.mcgill.ca/library/">McGill University Library</a>
-    <img src="/w3images/rocks.jpg" style="width:100%">
-    <img src="/w3images/underwater.jpg" style="width:100%">
   </div>  
   <div class="column">
     <img src="/membership-circle/MC_member_logos/harvard-library.jpg" style="width:100%">
