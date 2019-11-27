@@ -16,10 +16,12 @@ layout: default
 <tr>
 <td style="text-align:center;"><img alt="Arthur Lakes Library logo." src="/membership-circle/MC_member_logos/mines.png" /></td>
 <td style="text-align:center;"><img alt="McGill University Library logo." src="/membership-circle/MC_member_logos/mcgill.png" /></td>
+<td style="text-align:center;"><img alt="KAUST University Library logo." src="/membership-circle/MC_member_logos/kaust.png" /></td>
 </tr>
 <tr>
 <td style="padding:0 15px 0 15px; text-align:center;"><a href="https://library.mines.edu/">Arthur Lakes Library - Colorado School of Mines</a></td>
 <td style="padding:0 15px 0 15px; text-align:center;"><a href="https://www.mcgill.ca/library/">McGill University Library</a></td>
+<td style="padding:0 15px 0 15px; text-align:center;"><a href="https://library.kaust.edu.sa/">KAUST University Library</a></td>
 </tr>
 </table>
 
