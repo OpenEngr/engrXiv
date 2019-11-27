@@ -84,22 +84,22 @@ body {
 <!-- Photo Grid -->
 <div class="row"> 
   <div class="column">
-    <img src="/membership-circle/MC_member_logos/UWashington.jpg" style="width:100%">
-    <a href="https://www.lib.washington.edu/">University of Washington Libraries</a>
-    <img src="/membership-circle/MC_member_logos/mines.png" style="width:100%">
-    <a style="text-align:center;" href="https://library.mines.edu/">Arthur Lakes Library - Colorado School of Mines</a>
+    <figure><img src="/membership-circle/MC_member_logos/UWashington.jpg" style="width:100%">
+    <figcaption style="text-align:center;"><a href="https://www.lib.washington.edu/">University of Washington Libraries</a></figcaption></figure>
+    <figure><img src="/membership-circle/MC_member_logos/mines.png" style="width:100%">
+    <figcaption style="text-align:center;"><a href="https://library.mines.edu/">Arthur Lakes Library - Colorado School of Mines</a></figcaption></figure>
   </div>
   <div class="column">
-    <img src="/membership-circle/MC_member_logos/generic.png" style="width:100%">
-    <a href="https://library.princeton.edu/">Princeton University Library</a>
-    <img src="/membership-circle/MC_member_logos/mcgill.png" style="width:100%">
-    <a href="https://www.mcgill.ca/library/">McGill University Library</a>
+    <figure><img src="/membership-circle/MC_member_logos/generic.png" style="width:100%">
+    <figcaption style="text-align:center;"><a href="https://library.princeton.edu/">Princeton University Library</a></figcaption></figure>
+    <figure><img src="/membership-circle/MC_member_logos/mcgill.png" style="width:100%">
+    <figcaption style="text-align:center;"><a href="https://www.mcgill.ca/library/">McGill University Library</a></figcaption></figure>
   </div>  
   <div class="column">
-    <img src="/membership-circle/MC_member_logos/harvard-library.jpg" style="width:100%">
-    <a href="https://library.harvard.edu/">Harvard Library</a>
-    <img src="/membership-circle/MC_member_logos/kaust.png" style="width:100%">
-    <a href="https://library.kaust.edu.sa/">KAUST University Library</a>
+    <figure><img src="/membership-circle/MC_member_logos/harvard-library.jpg" style="width:100%">
+    <figcaption style="text-align:center;"><a href="https://library.harvard.edu/">Harvard Library</a></figcaption></figure>
+    <figure><img src="/membership-circle/MC_member_logos/kaust.png" style="width:100%">
+    <figcaption style="text-align:center;"><a href="https://library.kaust.edu.sa/">KAUST University Library</a></figcaption></figure>
   </div>
 </div>
 
