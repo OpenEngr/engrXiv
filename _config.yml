@@ -1,7 +1,7 @@
 # Jekyll configuration
 
 name: engrXiv Blog
-description: The blog for engrXiv.
+description: The blog for the Engineering Archive.
 
 # url is currently only used only for the RSS feed in feed.xml
 url: http://blog.engrxiv.org
