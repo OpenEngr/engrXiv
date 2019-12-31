@@ -33,6 +33,6 @@ The first 10 institutional members of the Engineering Archive Membership Circle:
 - [Oregon State University Libraries](https://library.oregonstate.edu/)
 - [University of Texas Libraries](https://www.lib.utexas.edu/)
 - [MIT Libraries](https://libraries.mit.edu/)
-- [Jean and Alexander Heard Libraries - Vanderbilt University])(https://www.library.vanderbilt.edu/)
+- [Jean and Alexander Heard Libraries - Vanderbilt University](https://www.library.vanderbilt.edu/)
 
 Again, **THANK YOU SO MUCH** to those who have already joined us in creating a sustainable future for open access engineering scholarship and to those of you planning to lend your support soon!
