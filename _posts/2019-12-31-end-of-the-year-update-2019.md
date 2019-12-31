@@ -17,7 +17,7 @@ We've also seen a continuing trend from last year in that the submission rate ha
 
 Finally, preprints hosted on engineering archive [recently surpassed 300,000 downloads](https://blog.engrxiv.org/stats/) (301,492 downloads at the time of writing to be exact)! We think that this shows the power of open access scholarship. If every one of those downloads represented the purchase of a PDF from a paywalled article, that would be a savings of at least $7,500,000 for the engineering community.
 
-With this growth, Engineering Archive faces the ever present challenge of sustainability of the operation ([we don't intend to ever sell out to a private entity]https://blog.engrxiv.org/faq/#independence)). With that in mind, we took two important steps financial sustainability this year. 
+With this growth, Engineering Archive faces the ever present challenge of sustainability of the operation ([we don't intend to ever sell out to a private entity](https://blog.engrxiv.org/faq/#independence)). With that in mind, we took two important steps financial sustainability this year. 
 
 1) We have formalized the relationship between the Engineering Archive and [Open Engineering Inc.](https://www.openengr.com/), a 501(c)(3) nonprofit organization for the promotion of open practices in engineering in all forms. Engineering Archive is a program of Open Engineering Inc. under which Open Engineering operates as the fundraising body to help meet the [financial needs of the server](https://blog.engrxiv.org/financials/), individual [donations are welcome](https://blog.engrxiv.org/donate/)! 
 
