@@ -89,9 +89,9 @@ body {
     <figure><img src="/membership-circle/MC_member_logos/mines.png" style="width:100%">
     <figcaption style="text-align:center;"><a href="https://library.mines.edu/">Arthur Lakes Library - CO Mines</a></figcaption></figure>
 	<figure><img src="/membership-circle/MC_member_logos/oregonstate.png" style="width:100%">
-    <figcaption style="text-align:center;"><a href="https://library.oregonstate.edu/">Oregon State University Libraries</a></figcaption></figure>
+    <figcaption style="text-align:center;"><a href="https://library.oregonstate.edu/">Oregon State U. Libraries</a></figcaption></figure>
 	<figure><img src="/membership-circle/MC_member_logos/vandy.jpg" style="width:100%">
-    <figcaption style="text-align:center;"><a href="https://www.library.vanderbilt.edu/">Jean & Alexander Heard Libraries</a></figcaption></figure>
+    <figcaption style="text-align:center;"><a href="https://www.library.vanderbilt.edu/">Jean & Alexander Heard Libs.</a></figcaption></figure>
   </div>
   <div class="column">
     <figure><img src="/membership-circle/MC_member_logos/generic.png" style="width:100%">
