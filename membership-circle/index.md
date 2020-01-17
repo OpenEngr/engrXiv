@@ -100,6 +100,8 @@ body {
     <figcaption style="text-align:center;"><a href="https://www.mcgill.ca/library/">McGill University Library</a></figcaption></figure>
 	<figure><img src="/membership-circle/MC_member_logos/UTexas.png" style="width:100%">
     <figcaption style="text-align:center;"><a href="https://www.lib.utexas.edu/">University of Texas Libraries</a></figcaption></figure>
+	<figure><img src="/membership-circle/MC_member_logos/iastate.png" style="width:100%">
+    <figcaption style="text-align:center;"><a href="https://www.lib.iastate.edu/">Iowa State University Library</a></figcaption></figure>
   </div>  
   <div class="column">
     <figure><img src="/membership-circle/MC_member_logos/harvard-library.jpg" style="width:100%">
