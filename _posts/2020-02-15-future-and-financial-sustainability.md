@@ -1,0 +1,24 @@
+---
+title: "Our Future and Financial Sustainability"
+tags: financial, sustainability, funding
+category: miscellaneous
+permalink: 2020/02/future-and-financial-sustainability
+layout: post
+comments: true
+---
+
+The [financial sustainability behind preprint servers has been garnering some attention lately](https://www.nature.com/articles/d41586-020-00363-3)—a conversation which was brought to the forefront again recently when [EarthArxiv announced their intention to search for a new home](https://eartharxiv.github.io/cos.html)—and brings attention to the status of all of the Center for Open Science hosted servers. [MarXiv announced they were shutting down their server](https://twitter.com/MarXivPapers/status/1207373970002964481) rather than attempt to host the service elsewhere. The financial status of the 26 COS servers has been in private discussion since late 2018 with COS making the case that their funders are pushing them to find new ways to fund the preprint offering. They told us at that time that we would need to develop new service agreements and begin paying a fee to COS to help over a portion of the costs to maintain the service, which they estimate to be $230,000 per year. These [fees range from $1,000 to $25,000 per year per server](https://cos.io/our-products/osf-preprints/), increasing with increasing server size—measured on the basis of preprint submissions during the previous year. [COS has received some criticism](https://twitter.com/joshmnicholson/status/1228473330338082818) for their handling of the preprint server roll-outs and the lack of an earlier plan for financial sustainability.
+
+As Engineering Archive is a COS hosted server, all of this of course impacts us directly. It was primarily for this reason that late last year [we announced the creation of the Engineering Archive Membership Circle](https://blog.engrxiv.org/2019/10/legal-status-membership-circle) and the formation of our 501(c)(3) nonprofite, [Open Engineering Inc.](https://www.openengr.com/), as a mechanism for raising the funds necessary to pay the proposed fee to COS, primarily through "partner[ing] with libraries for funding," as noted by that Nature article. Based on Engineering Archive's current size, our fee for 2020 is $3,999, towards which we are making quarterly payments. The Engineering Archive advisory board discussed our financial situation and decided that we would continue to use COS as or service provided through 2020, giving us some time to evaluate the alternatives.
+
+As of right now, the alternatives seem to include:
+
+- figshare: figshare currently powers ChemRxiv and TechRxiv. We looked at this option, but the current pricing structure would be more expensive than the COS fee. Wee are also partial to using an open source platform as we believe that this is important for the future of community owned and operated infrastructure.
+- Zenodo Communities: the Zenodo platform operated by CERN provides an attractive option as it is free and robust. However, the platform is currently not tailored to hosting branded preprint servers and does not offer custom domain support.
+- Science Open: [AfricArXiv has taken the approach of splitting their hosting across COS, Zenodo, and Science Open](https://info.africarxiv.org/scienceopen-partnership/) as a mechanism for keeping the costs at COS down. At Engineering Archive, we have not looked closely at Science Open again for reasons of wanting an open source solution and one that is not owned by a legacy publisher.
+
+Other platforms may be on the horizon. Both the [Coko Foundation](https://coko.foundation/pubsweet-next-release/) and the Public Knowledge Project are rumored to be developing preprint platforms. [PKP's preprint offering may be announced as early as later this month](https://twitter.com/juancommander/status/1228408224681869312). We will be watching as these options develop to determine the best viable solution.
+
+Of course we always have had the option of trying to roll our own solution. However, given that the server is completely volunteer operated during volunteer hours, avoiding too much additional burden, such as software development and maintenance as well as system administration, is desirable. Another challenge of building a custom solution, or even using something PKP for example, is that we would need to go through the process and expense of being able to issue our own DOIs and ensure proper archiving and longevity of our hosted documents.
+
+We would love to hear from the Engineering Archive community with your comments and suggestions as we navigate these interesting developments in assuring the sustainable operation of a community preprint server and look beyond at what the future holds for Engineering Archive after the end of 2020. You can provide your feedback in the comment box below, the hypothes.is annotations to the right, or on Twitter or Facebook.
