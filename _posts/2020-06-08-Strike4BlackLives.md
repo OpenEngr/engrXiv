@@ -11,5 +11,5 @@ Engineering Archive will be participating in the [#Strike4BlackLives](https://tw
 
 We hope that our users will use this day as an opportunity to reflect on the systemic issues in academia, research, and engineering which disproportionately impact our Black colleagues in negative ways. The organizers of the strike have done a great job of preparing [a list of ideas for how we might all identify the ways in which we can help](https://www.particlesforjustice.org/strike-details). If this is all new to you, you can start by [doing the reading, take action to be actively anti-racist, and allow space for healing](https://www.shutdownstem.com/action).
 
-![Strike4BlackLives banner(/images/ShutDownStem.jpeg)
+![Strike4BlackLives banner](/images/ShutDownStem.jpeg)
 
