@@ -83,7 +83,7 @@ Every paper on engrXiv can be easily associated with a "Project" on the [Open Sc
 
 <a name="licensing"></a>
 <br/>
-# What licenses are available??
+# What licenses are available?
 
 When you upload your article, you are given the option to license it. Although you’re not required to license your preprint, doing so provides a means for you to communicate how you would like others to use your work. The current licenses available on engrXiv are [CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/) and [CC BY Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/). These are open licenses. If you’re going to share supplemental data and/or code, [OSF Projects](https://osf.io/) can be licensed separately from the preprints. Additional licenses are available on projects. For more information about licenses, see further info from [Creative Commons](https://creativecommons.org/choose/).
 
