@@ -94,8 +94,8 @@ body {
     <figcaption style="text-align:center;"><a href="https://library.princeton.edu/">Princeton University Library</a></figcaption></figure>
   </div>
   <div class="column">
-    <!--<figure><img src="/membership-circle/MC_member_logos/mcgill.png" style="width:100%">
-    <figcaption style="text-align:center;"><a href="https://www.mcgill.ca/library/">McGill University Library</a></figcaption></figure>-->
+    <figure><img src="/membership-circle/MC_member_logos/mcgill.png" style="width:100%">
+    <figcaption style="text-align:center;"><a href="https://www.mcgill.ca/library/">McGill University Library</a></figcaption></figure>
 	<figure><img src="/membership-circle/MC_member_logos/UTexas.png" style="width:100%">
     <figcaption style="text-align:center;"><a href="https://www.lib.utexas.edu/">University of Texas Libraries</a></figcaption></figure>
 	<figure><img src="/membership-circle/MC_member_logos/iastate.png" style="width:100%">
