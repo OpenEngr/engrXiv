@@ -100,14 +100,14 @@ body {
     <figcaption style="text-align:center;"><a href="https://www.lib.utexas.edu/">University of Texas Libraries</a></figcaption></figure>-->
 	<figure><img src="/membership-circle/MC_member_logos/iastate.png" style="width:100%">
     <figcaption style="text-align:center;"><a href="https://www.lib.iastate.edu/">Iowa State University Library</a></figcaption></figure>
+	<figure><img src="/membership-circle/MC_member_logos/harvard-library.jpg" style="width:100%">
+    <figcaption style="text-align:center;"><a href="https://library.harvard.edu/">Harvard Library</a></figcaption></figure>
   </div>  
   <div class="column">
-    <figure><img src="/membership-circle/MC_member_logos/harvard-library.jpg" style="width:100%">
-    <figcaption style="text-align:center;"><a href="https://library.harvard.edu/">Harvard Library</a></figcaption></figure>
 	<figure><img src="/membership-circle/MC_member_logos/vandy.jpg" style="width:100%">
     <figcaption style="text-align:center;"><a href="https://www.library.vanderbilt.edu/">Jean & Alexander Heard Libs.</a></figcaption></figure>
-    <!--<figure><img src="/membership-circle/MC_member_logos/kaust.png" style="width:100%">
-    <figcaption style="text-align:center;"><a href="https://library.kaust.edu.sa/">KAUST University Library</a></figcaption></figure>-->
+    <figure><img src="/membership-circle/MC_member_logos/kaust.png" style="width:100%">
+    <figcaption style="text-align:center;"><a href="https://library.kaust.edu.sa/">KAUST University Library</a></figcaption></figure>
 	<figure><img src="/membership-circle/MC_member_logos/mit.jpg" style="width:100%">
     <figcaption style="text-align:center;"><a href="https://libraries.mit.edu/">MIT Libraries</a></figcaption></figure>
   </div>
