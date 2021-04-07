@@ -110,6 +110,8 @@ body {
     <figcaption style="text-align:center;"><a href="https://library.kaust.edu.sa/">KAUST University Library</a></figcaption></figure>
 	<figure><img src="/membership-circle/MC_member_logos/mit.jpg" style="width:100%">
     <figcaption style="text-align:center;"><a href="https://libraries.mit.edu/">MIT Libraries</a></figcaption></figure>
+	<figure><img src="/membership-circle/MC_member_logos/wvu.jpg" style="width:100%">
+    <figcaption style="text-align:center;"><a href="https://library.wvu.edu/">West Virginia U. Libraries</a></figcaption></figure>
   </div>
 </div>
 
