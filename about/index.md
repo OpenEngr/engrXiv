@@ -17,7 +17,7 @@ engrXiv is directed by a steering committee of engineers and members of the engi
 	<li><a href="https://kevinmoerman.org/" target="_blank">Kevin Moerman</a>, biomechanical engineer, National University of Ireland Galway</li>
 	<li><a href="http://www.moorepants.info/" target="_blank">Jason Moore</a>, mechanical engineer, Delft University of Technology</li>
 	<li><a href="http://kyleniemeyer.com" target="_blank">Kyle Niemeyer</a>, mechanical engineer, Oregon State University</li>
-	<li><a href="http://www.douglasvanbossuyt.com/" target="_blank">Douglas Van Bossuyt</a>, mechanical engineer, KTM Research</li>
+	<li><a href="http://www.douglasvanbossuyt.com/" target="_blank">Douglas Van Bossuyt</a>, mechanical engineer, Naval Postgraduate School</li>
 </ul>
 Follow us on <a href="https://twitter.com/engrXiv" target="_blank">Twitter</a> or <a href="https://www.facebook.com/engrXiv" target="_blank">Facebook</a> or watch the <a href="https://blog.engrxiv.org/" target="_blank">engrXiv blog</a> for updates. Organizations interested in partnering with engrXiv to expand archiving in the engineering field should contact [info@engrxiv.org](mailto:info@engrxiv.org).
 
