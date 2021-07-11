@@ -84,6 +84,8 @@ body {
 <!-- Photo Grid -->
 <div class="row"> 
   <div class="column">
+    <figure><img src="/membership-circle/MC_member_logos/TUDelft.png" style="width:100%">
+    <figcaption style="text-align:center;"><a href="https://www.tudelft.nl/library/tu-delft-open-science/os/open-publishing">TU Delft OPEN</a></figcaption></figure>
     <figure><img src="/membership-circle/MC_member_logos/UWashington.jpg" style="width:100%">
     <figcaption style="text-align:center;"><a href="https://www.lib.washington.edu/">U. Washington Libraries</a></figcaption></figure>
     <figure><img src="/membership-circle/MC_member_logos/mines.png" style="width:100%">
