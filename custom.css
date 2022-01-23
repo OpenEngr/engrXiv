@@ -1,0 +1,36 @@
+button, input, optgroup, select, textarea {
+    line-height: 1.75;
+    border-radius: 3px;
+    border: 1px solid rgba(0,0,0,0.4);
+    line-height: calc(2.143rem - 3px);
+    padding: 0 1em;
+}
+
+.cmp_button, .cmp_form .buttons button, .page_lost_password .buttons button, .page_search .submit button, .block_make_submission a {
+    background: #222f38;
+    border-top-color: #222f38;
+    color: #fff;
+}
+
+.obj_galley_link {
+    background: #222f38;
+    margin: 0.1em;
+}
+
+a {
+    color: #222f38;
+}
+
+.cmp_button_wire, .obj_galley_link {
+    border: 1px solid #222f38;
+}
+
+.cmp_button:hover, .cmp_button:focus, .page_search .submit button:hover, .page_search .submit button:focus {
+    background: #fff;
+    border: 1px solid #222f38;
+    color: #222f38;
+}
+
+.archiveHeader {
+    background: #637074;
+}
